@@ -1,2 +1,1 @@
-# BizIT
-Website Template
+# bizit
